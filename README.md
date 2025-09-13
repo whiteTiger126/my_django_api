@@ -17,13 +17,34 @@ Tastypie
 
 Follow these steps to set up and run the project locally.
 
-1️⃣ Project Setup
+# 📝 Notable Django API
 
+A simple **REST API** built with **Django** and **Tastypie**.  
+The API supports full **CRUD** operations (**Create, Read, Update, Delete**) on a `Note` model.  
+
+This project was created as a learning exercise to demonstrate how to build a basic API step-by-step with Django.
+
+---
+
+## 🚀 Technologies Used
+- **Python**
+- **Django**
+- **Tastypie**
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### 1️⃣ Project Setup
 Install Django and create the project:
 
+```bash
 pip install Django
 django-admin startproject notable_django
 cd notable_django
+
 
 2️⃣ Create the App
 
